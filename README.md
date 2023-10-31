@@ -1,16 +1,40 @@
 ### Hi there 👋
 
-<!--
-**Ragulraj005/Ragulraj005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Ragulraj!
 
-Here are some ideas to get you started:
+I'm a passionate web developer who loves to code and create amazing web applications. Here are a few things about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 I'm looking for my first web development job.
+- 🔭 I'm working on BOX-D(gaming-website).
+- 🌟 I'm interested in front-end and back-end development.
+- 📚 I love to learn new technologies and frameworks.
+
+I'm a passionate web developer on a journey to mastering the art of coding. Here's a glimpse of my tech journey so far:
+
+## 🚀 Tech Journey
+
+🔹 Java ☕
+🔹 MySQL 📊
+🔹 MongoDB 🍃
+🔹 Redis 🗝️
+🔹 Microservices 🌐
+🔹 HTML & CSS 💻
+🔹 JavaScript 🚀
+🔹 React ⚛️
+🔹 Python 🐍
+
+## 🧠 Currently Learning
+
+I'm currently diving deep into Data Structures and Algorithms (DSA) to strengthen my problem-solving skills and algorithmic thinking.
+
+## 💡 Future Targets
+
+My future targets include deciding between Next.js and Node.js for my next learning adventure. The world of web development is vast, and I'm excited to explore and grow in this ever-evolving field.
+
+Feel free to connect with me and follow my journey. Let's learn and grow together! 😄
+
+## 📫 How to reach me
+
+- LinkedIn: 
+- Email: rajragul575@gmail.com
+
