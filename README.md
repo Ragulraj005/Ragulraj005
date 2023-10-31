@@ -2,9 +2,6 @@
 # 👋 Hi there, I'm Ragulraj! 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ragulraj005)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ragulraj-p/)  
-
-
 
 I'm a passionate web developer who loves to code and create amazing web applications. Here are a few things about me:
 
