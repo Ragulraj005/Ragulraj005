@@ -1,5 +1,5 @@
 
-
+![](https://media.licdn.com/dms/image/D5616AQHfYGX38GnRHw/profile-displaybackgroundimage-shrink_350_1400/0/1688373272443?e=1704326400&v=beta&t=vXf7JIdyoSM1m-bahP2ox82U6c9hvAZBXNISj3FS8xE)
 # 👋 Hi there, I'm Ragulraj!
 
 I'm a passionate web developer who loves to code and create amazing web applications. Here are a few things about me:
@@ -39,14 +39,7 @@ Feel free to connect with me and follow my journey. Let's learn and grow togethe
 - LinkedIn: https://www.linkedin.com/in/ragulraj-p
 - Email: rajragul575@gmail.com
 
-- ![](https://media.licdn.com/dms/image/D5616AQHfYGX38GnRHw/profile-displaybackgroundimage-shrink_350_1400/0/1688373272443?e=1704326400&v=beta&t=vXf7JIdyoSM1m-bahP2ox82U6c9hvAZBXNISj3FS8xE)
 
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ragulraj005)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ragulraj005)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
