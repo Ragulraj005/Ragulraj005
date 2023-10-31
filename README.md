@@ -21,6 +21,7 @@ I'm a passionate web developer on a journey to mastering the art of coding. Here
 🔹 HTML & CSS 💻
 🔹 JavaScript 🚀
 🔹 React ⚛️
+
 🔹 Python 🐍
 
 ## 🧠 Currently Learning
@@ -35,6 +36,6 @@ Feel free to connect with me and follow my journey. Let's learn and grow togethe
 
 ## 📫 How to reach me
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/ragulraj-p
 - Email: rajragul575@gmail.com
 
