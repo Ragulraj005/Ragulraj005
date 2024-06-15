@@ -37,8 +37,8 @@ Feel free to connect with me and follow my journey. Let's learn and grow togethe
 
 ## 📫 How to reach me
 
-- LinkedIn: https://www.linkedin.com/in/ragulraj-p
-- Email: rajragul575@gmail.com
+- LinkedIn: [Ragulraj P](https://www.linkedin.com/in/ragulraj-p)
+- Email: [rajragul575@gmail.com](mailto:rajragul575@gmail.com)
 - LeetCode: [Ragulraj P](https://leetcode.com/u/rajragul005/)
 
 
